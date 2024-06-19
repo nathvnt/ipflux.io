@@ -1,0 +1,11 @@
+{
+  "log_dir": "NetworkLogs",
+  "timeout": 15,
+  "trusted_ips_path": "trusted_ips.json",
+  "flagged_ips_path": "anomalous_ips.json",
+  "ip_cache_path": "ip_cache.json",
+  "history_log_file": "network_traffic_history.json",
+  "map_file": "network_traffic_map.html",
+  "virustotal_api_key": "your_virustotal_api_key",
+  "abuseipdb_api_key": "your_abuseipdb_api_key"
+}
